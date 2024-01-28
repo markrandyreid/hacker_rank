@@ -5,4 +5,3 @@ if __name__ == '__main__':
     b = int(input())
     
     print(f'{a//b}\n{a/b}')
-    print('This file has been committed')
