@@ -1,2 +1,2 @@
 # hacker_rank
-Coding problems from Hacker Rank
+Solutiosn to coding problems from Hacker Rank
